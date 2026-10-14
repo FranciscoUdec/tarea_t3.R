@@ -4,7 +4,7 @@ Análisis de la brecha de género en horas trabajadas usando datos de la ENE.
 ## Pregunta y Respuesta Parte B
 #¿Existe brecha de género en la jornada habitual y cómo interactúa con la edad?
 Ser mujer se asocia con 4.15 horas menos de jornada, desventaja que persiste con 
-perfiles similares. Si bien la brecha aumenta levísimamente con la edad, este efecto 
+perfiles similares. Si bien la brecha aumenta con la edad, este efecto 
 extra no tiene importancia económica ni es significativo al 5%. 
 
 ## Datos
